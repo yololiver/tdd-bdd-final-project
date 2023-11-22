@@ -162,6 +162,3 @@ def step_impl(context, message):
         )
     )
     assert(found)
-
-      git config --global user.email "yapkj96@gmail.com"
-  git config --global user.name "Andrew Yap"
